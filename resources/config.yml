@@ -1,0 +1,9 @@
+reload.nopermissions: "You don't have permission to do that!"
+reload.complete: "Configuration successfully reloaded."
+
+interval: 300 # measured in seconds
+announcements: [
+  "message 1",
+  "message 2",
+  "etc"
+]
