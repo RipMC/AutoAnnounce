@@ -1,8 +1,0 @@
-name: AutoAnnounce
-version: 1.0
-author: MasterDash5
-api-version: 1.19
-main: org.ripmc.announce.Announce
-
-commands:
-  autoannouncereload:
